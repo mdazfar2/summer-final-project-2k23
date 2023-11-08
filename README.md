@@ -25,7 +25,7 @@ We've created a smart chatbot using generative AI that engages users in interact
 - Clone the repository.
 - Run the Python script.
 - Click the buttons and watch the magic happen!
-- Follow the on-screen prompts to manage.
+- Follow the on-screen prompts to manage..
 
 🤝 Contributions Contributions are welcome! If you have ideas for additional buttons, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
